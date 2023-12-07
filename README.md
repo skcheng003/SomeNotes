@@ -13,3 +13,9 @@ I shall update this file everyday, as a record of my learning path.
 + Watching csapp lecture13 about linker.
 + Learn how to implement the stack and queue using linked list or array in Java.
 + Some basic c program.
+
+#### 2023-12-07
+
++ Static library and shared library, how to link the main.c file with these libraries.
++ More details about the log structure tree, tradeoffs, how to compact the records.
++ Start learning the official cmake toturial (really good resource for people who knows nothing about cmake at all, just like me)
