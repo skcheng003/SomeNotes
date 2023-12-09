@@ -19,3 +19,8 @@ I shall update this file everyday, as a record of my learning path.
 + Static library and shared library, how to link the main.c file with these libraries.
 + More details about the log structure tree, tradeoffs, how to compact the records.
 + Start learning the official cmake toturial (really good resource for people who knows nothing about cmake at all, just like me)
+
+#### 2023-12-09
+
++ Index-organised storage, details of data representation in a tupe in the page
++ Exception control flow, some concepts of process, the fork() API
