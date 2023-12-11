@@ -24,3 +24,12 @@ I shall update this file everyday, as a record of my learning path.
 
 + Index-organised storage, details of data representation in a tupe in the page
 + Exception control flow, some concepts of process, the fork() API
+
+#### 2023-12-10
+
++ wait() and execve() API
+
+#### 2023-12-11
+
++ Some basic Go syntax, learn the Test-Driven-Development
++ Two leetcode, two sum and merge linked list (in Go)
